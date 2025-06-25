@@ -29,4 +29,4 @@ A simple Java-based CLI (Command Line Interface) application to manage student r
    ---
 
 ## Output Screenshot
-**Sample Output:
+**Sample Output:https://github.com/UnnathiKV/Student-Record-Management-System/blob/main/task2.png**
