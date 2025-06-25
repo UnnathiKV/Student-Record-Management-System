@@ -24,7 +24,7 @@ A simple Java-based CLI (Command Line Interface) application to manage student r
 ##  To Run the Code
 
 1. Open the program in VS Code or IntelliJ.
-2. Compile the code using:**StudentManagementSystem.java**
+2. Compile the code using:**[StudentManagementSystem.java](https://github.com/UnnathiKV/Student-Record-Management-System/blob/main/StudentManagementSystem.java)**
 
    ---
 
